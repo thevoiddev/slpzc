@@ -2,8 +2,6 @@
 
 ### My name is Aleksey Chekunov. I am a freelance frontend developer living in Yekaterinburg, Russia.⚡
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
-
 ## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
